@@ -7,7 +7,7 @@
    [Test and Analysis Milestone](https://github.com/GauriGNaik/commons-csv/tree/milestone2)
    
 ## Milestone 3
-   [Deployment Milestone]()
+   [Deployment Milestone](https://github.com/GauriGNaik/express_example/tree/milestone3)
 
 ## Special Milestone - Migration Monkey and Restart Monkey
 
@@ -29,9 +29,13 @@ The proxy server constantly monitors this switch key value and once it detects t
 
 ## Screencast
 
-[screencast](http://youtu.be/0NktKL9ynNU?hd=1)
+[Final Project Screencast](http://youtu.be/0NktKL9ynNU?hd=1)
 
+## Team Members
 
+* Gauri Naik (gnaik2)
+* Arvind Telharkar(adtelhar)
+* Ravneet Kaur(ravnee)
 
 
 
