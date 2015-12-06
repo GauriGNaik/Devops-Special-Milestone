@@ -21,7 +21,7 @@ socket.on("heartbeat", function(client) {
     }
 });
 //console.log("Came here");
-//switchValue = client.get("SwitchKey");  
+switchValue = client.get("SwitchKey");  
 //PROXY SERVER
 
 //console.log(client.get("Switch"));
