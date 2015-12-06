@@ -21,7 +21,7 @@ The monitoring application monitors the production server for memory usage. If t
 
 For the migration, a list of packages installed on the production server is generated. Then, the production server transfers this package list along with all the application data to the backup server. 
 
-A script is run on the prodcution server which uses ssh mechanism to install all the packages on the backup server using the package list. The script also installs all the dependencies that are needed for running the application. It also starts all the required services on the backup server. Finally, it starts running the application on the backup server.
+A script is run on the production server which uses ssh mechanism to install all the packages on the backup server using the package list. The script also installs all the dependencies that are needed for running the application. It also starts all the required services on the backup server. Finally, it starts running the application on the backup server.
 
 Once the migration is completed, the production server sets the switch key value to true in the global redis store and it performs a system reboot. 
 
