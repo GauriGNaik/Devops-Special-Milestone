@@ -1,6 +1,13 @@
 # Devops-Special-Milestone
 
-## Migration Monkey and Restart Monkey
+## Build milestone
+
+## Test and Analysis milestone
+
+## Deployment milestone
+
+
+## Special Milestone - Migration Monkey and Restart Monkey
 
 The main idea for this milestone is to demonstrate how the service can be kept running even in case of failure by using the migration monkey and restart monkey. This is extremely useful when only a limited number of resources is available. For example, in our demonstration we have used only two servers. The idea is to keep atleast one of them active so that the service is kept running at all times. 
 
@@ -20,7 +27,7 @@ The proxy server constantly monitors this switch key value and once it detects t
 
 ## Screencast
 
-
+[screencast](http://youtu.be/0NktKL9ynNU?hd=1)
 
 
 
