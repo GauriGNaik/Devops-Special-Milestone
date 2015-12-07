@@ -9,7 +9,7 @@
 ## Milestone 3
    [Deployment Milestone](https://github.com/GauriGNaik/express_example/tree/milestone3)
 
-## Special Milestone - Migration Monkey and Restart Monkey
+## Special Milestone - Migration Monkey
 
 The main idea for this milestone is to demonstrate how the service can be kept running even in case of failure by using the migration monkey and restart monkey. This is extremely useful when only a limited number of resources are available. For example, in our demonstration we have used only two servers. The idea is to keep atleast one of them active by performing migration so that the service is kept running at all times. 
 
